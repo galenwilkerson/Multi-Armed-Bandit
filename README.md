@@ -5,7 +5,7 @@
 This repository demonstrates a **multi-armed bandit** setup, one of the simplest yet most fundamental reinforcement learning problems. The code implements an **ε-greedy** strategy, showing how an agent balances exploration of different arms against exploitation of the best-known arm.
 
 ## Overview
-- **Notebook/Code**: [Multi-Armed-Bandit](https://github.com/galenwilkerson/Multi-Armed-Bandit/edit/main/)
+- **Notebook/Code**: [Multi-Armed-Bandit](https://github.com/galenwilkerson/Multi-Armed-Bandit/blob/main/Multi-Armed%20Bandit.ipynb)
 - **Algorithm**: ε-greedy
 - **Environment**: Each arm has a normally distributed reward with an unknown mean.
 
